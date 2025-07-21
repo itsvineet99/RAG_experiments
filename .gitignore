@@ -97,3 +97,6 @@ secrets.toml
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# files i want to ignore
+vineet*
