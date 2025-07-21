@@ -100,3 +100,5 @@ Desktop.ini
 
 # files i want to ignore
 vineet*
+chroma_db/
+bm25_retriever/
